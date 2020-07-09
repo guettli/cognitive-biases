@@ -24,5 +24,5 @@ And you want them to shut up (or at least slow down)?
 
 (joking) That's offensive, that's disrespectful!
 
-Speaking fast feels more productive/important than writing slowly.
+Speaking fast feels more productive/important than writing slowly. ... live would be boring without homo sapiens and heir biases.
 
