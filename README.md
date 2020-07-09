@@ -1,6 +1,6 @@
 # cognitive biases
 
-I love cognitive biases. I was inspired by Rolf Dobellis book [The Art of Thinking Clearly](https://en.wikipedia.org/wiki/The_Art_of_Thinking_Clearly).
+I love cognitive biases. I was inspired by Rolf Dobelli's book [The Art of Thinking Clearly](https://en.wikipedia.org/wiki/The_Art_of_Thinking_Clearly).
 
 There is a great list of biases on Wikipedia: [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
 
