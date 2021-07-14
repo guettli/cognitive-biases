@@ -26,3 +26,7 @@ And you want them to shut up (or at least slow down)?
 
 Speaking fast feels more productive/important than writing slowly. ... live would be boring without homo sapiens and their biases.
 
+## Adding something to solve a problem is prefered.
+
+[People systematically overlook subtractive changes](https://www.nature.com/articles/s41586-021-03380-y)
+
